@@ -36,30 +36,31 @@
 ---
 ## Скриншоты работы проекта для проверки
 
+<details>
+<summary>📸 Нажмите, чтобы развернуть скриншоты</summary>
 
-1. Регистрация пользователя
-![alt text](image.png)
+1. **Регистрация пользователя**
+![Регистрация](assets/screenshots/image.png)
 
+2. **Логин и получение JWT**
+![Логин](assets/screenshots/image-1.png)
 
-2. Логин и получение JWT
-![alt text](image-1.png)
+3. **Авторизация через Swagger**
+![Swagger Auth 1](assets/screenshots/image-2.png)
+![Swagger Auth 2](assets/screenshots/image-3.png)
 
+4. **Вызов POST /chat**
+![Запрос в чат 1](assets/screenshots/image-4.png)
+![Запрос в чат 2](assets/screenshots/image-5.png)
 
-3. Авторизация через Swagger
-![alt text](image-2.png)
-![alt text](image-3.png)
+5. **Получение истории через GET /chat/history**
+![История чата](assets/screenshots/image-6.png)
 
-4. Вызов POST /chat
-![alt text](image-4.png)
-![alt text](image-5.png)
+6. **Удаление истории через DELETE /chat/history**
+![Удаление истории 1](assets/screenshots/image-7.png)
+![Удаление истории 2](assets/screenshots/image-8.png)
 
-5. Получение истории через GET /chat/history
-![alt text](image-6.png)
-
-
-6. Удаление истории через DELETE /chat/history
-![alt text](image-7.png)
-![alt text](image-8.png)
+</details>
 
 
 ---
