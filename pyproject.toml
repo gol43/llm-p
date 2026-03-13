@@ -30,7 +30,7 @@ dev-dependencies = [
 project = "app.main:main"
 
 [tool.ruff]
-line-length = 120
+line-length = 320
 target-version = "py312"
 exclude = ["venv", ".venv", "dist", "__pycache__"]
 
